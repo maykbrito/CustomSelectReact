@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 87.5%;
+}
+
+body {
+  display: grid;
+  place-items: center center;
+
+  font-family: "Roboto", sans-serif;
+  background: #f7f6ff;
+}
